@@ -43,4 +43,5 @@ const (
 	CostUSD     = "CostUSD"
 	ServiceName = "ServiceName"
 	TagValue    = "TagValue"
+	UsageDate   = "UsageDate"
 )
